@@ -1,0 +1,7 @@
+[2022-09-07 08:51:25] local.INFO: {"$1":null,"1":null,"SDL001":null,"19072022185030*":null}  
+[2022-09-07 08:51:54] local.INFO: {"$1":null,"1":null,"SDL001":null,"19072022185030*":null}  
+[2022-09-07 08:51:54] local.DEBUG: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '202207191850301' for key 'parkings_barcode_unique' (SQL: insert into `parkings` (`place_id`, `slot_id`, `vehicle_no`, `rfid_no`, `category_id`, `driver_name`, `driver_mobile`, `barcode`, `in_time`, `created_by`, `updated_at`, `created_at`) values (1, 1, 123456, SDL001, 1, Pavel, 01844527152, 202207191850301, 2022-07-19 18:50:30, 1, 2022-09-07 08:51:54, 2022-09-07 08:51:54))  
+[2022-09-07 08:51:59] local.INFO: {"$1":null,"1":null,"SDL001":null,"19072022185530*":null}  
+[2022-09-07 08:56:49] local.INFO: {"$1":null,"1":null,"SDL001":null,"07092022085930*":null}  
+[2022-09-07 08:57:16] local.INFO: {"$1":null,"1":null,"SDL001":null,"07092022090000*":null}  
+[2022-09-07 08:58:43] local.INFO: {"$1":null,"1":null,"SDL001":null,"07092022090400*":null}  
